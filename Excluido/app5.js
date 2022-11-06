@@ -15,4 +15,3 @@ var Aplicacion;
 })(Aplicacion || (Aplicacion = {}));
 let apc = Aplicacion.Apocalipsis.getInstance();
 console.log(apc.nombre);
-//# sourceMappingURL=app5.js.map

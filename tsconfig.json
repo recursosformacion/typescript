@@ -1,8 +1,12 @@
 {
+  "exclude": [
+    "Excluido"
+  ],
   "compileOnSave": true,
     "compilerOptions": {
-        "module": "es6",
-        "target": "ES6",
+        "outFile":"App.js",
+        "module": "none",
+        "target": "es6",
         "noImplicitAny": false,
         "strictNullChecks": true,
         "alwaysStrict": true,
@@ -11,10 +15,7 @@
         "moduleResolution": "Node",
         "lib": [
             "dom",
-            "es2016",
-            "es5",
-            "es6",
-            "ScriptHost"
+            "es2016"
         ]
     }
 }

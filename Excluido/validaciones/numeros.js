@@ -5,4 +5,3 @@ exports.PI = 3.1416;
 function restart(num1, num2) {
     return num1 - num2;
 }
-//# sourceMappingURL=numeros.js.map

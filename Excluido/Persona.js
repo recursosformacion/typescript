@@ -24,4 +24,3 @@ class Usuario extends Persona {
 let u1;
 u1 = new Persona("Antonio", "Direccion", 40);
 console.log(u1.toString());
-//# sourceMappingURL=Persona.js.map

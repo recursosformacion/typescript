@@ -9,4 +9,3 @@ function obtenerError(numError) {
     return MENSAJES[numError];
 }
 exports.obtenerError = obtenerError;
-//# sourceMappingURL=textos.js.map
