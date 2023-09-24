@@ -4,7 +4,7 @@
   ],
   "compileOnSave": true,
     "compilerOptions": {
-        "outFile":"App.js",
+        "outFile":"app.ts",
         "module": "none",
         "target": "es6",
         "noImplicitAny": false,
@@ -13,6 +13,7 @@
         "preserveConstEnums": true,
         "sourceMap": false,
         "moduleResolution": "Node",
+        "experimentalDecorators": true,
         "lib": [
             "dom",
             "es2016"
